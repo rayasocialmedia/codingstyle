@@ -1,2 +1,1 @@
-Ruby Coding Guidelines
-===========
+# Ruby Coding Guidelines
